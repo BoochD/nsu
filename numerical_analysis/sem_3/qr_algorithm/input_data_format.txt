@@ -1,0 +1,14 @@
+1) matrix dimension 
+(example: "3")
+2) matrix elements (separated by a space or \n) 
+(example: 
+"15 2 -5 
+ 4 0 7
+ -3 11 16")
+3) initial guess (must be non-zero)(separated by a space or \n)
+(example:
+"1
+ 1
+ 1")
+4) error
+(example: "0.00001")

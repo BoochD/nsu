@@ -1,0 +1,17 @@
+1) matrix dimension 
+(example: "3")
+2) matrix elements (separated by a space or \n) 
+(example: 
+"1 0 17 
+ 1 5 2
+ 4 -3 6")
+
+! the method is very sensitive to the initial guess
+
+3) initial guess (must be non-zero)(separated by a space or \n)
+(example:
+"1
+ 0.01
+ -1")
+4) error
+(example: "0.00001")
